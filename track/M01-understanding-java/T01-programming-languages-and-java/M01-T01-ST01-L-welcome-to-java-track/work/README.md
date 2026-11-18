@@ -1,12 +1,13 @@
 # Welcome to the Java Track
 
-## My Name
+C Prashanth Kumar Reddy
 
 Write your name.
 
 ## What I Learned in Foundation Month
 
 Write at least three things you learned.
+I kearned basics and all
 
 ## Why I Selected Java
 
@@ -20,8 +21,8 @@ Write the role you want to achieve.
 
 Complete these sentences:
 
-Programming means:
+Programming means: coding
 
-Java is:
+Java is: programming Language
 
 In this track, I will learn:
